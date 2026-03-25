@@ -1,6 +1,6 @@
 # Social Media Do's and Don'ts for College Students
 
-## DO's ✅
+## DO's 
 
 1. **Review your privacy settings** on all platforms at least once a semester. Ensure only people you trust can see personal posts.
 
@@ -18,7 +18,7 @@
 
 ---
 
-## DON'Ts ❌
+## DON'Ts 
 
 1. **Don't post anything about your institution, faculty, or classmates** that you would not say directly to them. Screenshots spread quickly.
 
