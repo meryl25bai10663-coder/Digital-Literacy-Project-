@@ -4,7 +4,7 @@
 
 ### 1. GitHub (github.com)
 GitHub is a platform for hosting and sharing code using version control (Git). It allows developers to collaborate on projects, track changes, and showcase their work publicly. I created my profile README repository (a special repo named after my username) with my name, branch, year, and a short note about what I hope to learn. GitHub will be essential for storing my projects, contributing to open-source work, and building a public coding portfolio throughout my degree.
-![Digital Literacy GitHub](GithubProfile.png)
+![Digital Literacy GitHub](GitHubProfile.png)
 
 ### 2. LinkedIn (linkedin.com)
 LinkedIn is the world's largest professional networking platform, used by students, job seekers, recruiters, and companies. I filled in the Education section with my current degree (B.Tech in Computer Science Engineering – AI), institution (VIT Bhopal University), and expected graduation year (2029). LinkedIn will help me connect with industry professionals, discover internship and placement opportunities, and build a professional brand online.
