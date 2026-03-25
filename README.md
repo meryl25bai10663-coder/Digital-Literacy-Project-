@@ -1,11 +1,11 @@
 # CSE0001 – Digital Literacy Portfolio
 
-**Student:** Meryl
-**Registration No.:** 22BCE####
-**Branch:** B.Tech – Computer Science & Engineering
+**Student:** Meryl Adrina Kerobin
+**Registration No.:** 25BAI10663
+**Branch:** B.Tech – Computer Science & Engineering (Artificial Intelligence & Machine Learning)
 **Year:** First Year, Semester II
 **Institution:** VIT Bhopal University
-**Course:** CSE0001 – Digital Literacy (1 Credit | Pass/Fail)
+**Course:** CSE0001 – Digital Literacy
 
 ---
 
@@ -15,60 +15,23 @@ This repository is my Digital Literacy Portfolio, submitted as part of the CSE00
 
 ---
 
-## Repository Structure
-
-```
-digital-literacy-project/
-│
-├── README.md                          ← This file
-├── report/
-│   └── Project_Report.docx            ← Full written project report
-│
-├── task-1-presentation/
-│   ├── description.md                 ← Tool used, design overview, reflection
-│   └── infographic.png                ← Exported infographic (add screenshot here)
-│
-├── task-2-portfolio/
-│   ├── reflection.md                  ← Platforms, purpose, future plans
-│   ├── github-profile.png             ← Screenshot (add here)
-│   ├── linkedin-profile.png           ← Screenshot (add here)
-│   └── kaggle-profile.png             ← Screenshot (add here)
-│
-├── task-3-platforms/
-│   ├── notes.md                       ← Platforms used, what was built
-│   ├── hackerrank-challenge.png       ← Screenshot (add here)
-│   ├── google-form.png                ← Screenshot (add here)
-│   └── google-sheet-responses.png    ← Screenshot (add here)
-│
-├── task-4-email-etiquette/
-│   ├── email1-deadline-extension.txt  ← Professional email draft 1
-│   ├── email2-internship-interest.txt ← Professional email draft 2
-│   └── social-media-checklist.md      ← Do's and Don'ts checklist
-│
-└── task-5-cybercrime/
-    ├── casestudy.md                   ← UPI fraud case study
-    └── prevention-checklist.md        ← Stay Safe Online checklist
-```
-
----
-
 ## Module Summaries
 
 | Module | Task | Status |
 |--------|------|--------|
-| Module 1 – Digital Tools | Infographic using Canva | ✅ Complete |
-| Module 2 – Digital Presence | GitHub, LinkedIn, Kaggle profiles | ✅ Complete |
-| Module 3 – Platforms | HackerRank challenge + Google Form quiz | ✅ Complete |
-| Module 4 – Communication | 2 professional emails + social media checklist | ✅ Complete |
-| Module 5 – Cybersecurity | UPI fraud case study + prevention checklist | ✅ Complete |
+| Module 1 – Digital Tools | Infographic using Canva | Complete |
+| Module 2 – Digital Presence | GitHub, LinkedIn, Kaggle profiles | Complete |
+| Module 3 – Platforms | HackerRank challenge + Google Form quiz | Complete |
+| Module 4 – Communication | 2 professional emails + social media checklist | Complete |
+| Module 5 – Cybersecurity | UPI fraud case study + prevention checklist | Complete |
 
 ---
 
 ## Key Links
 
-- **Google Form – Digital Literacy Awareness Quiz:** [Add your Google Form link here]
-- **LinkedIn Profile:** [Add your LinkedIn URL here]
-- **Kaggle Profile:** [Add your Kaggle URL here]
+- **Google Form – Digital Literacy Awareness Quiz:** _[https://forms.gle/JtmdnZmyCSrJdMkz7]_
+- **LinkedIn Profile:** _[https://www.linkedin.com/in/meryl-adrina-kerobin-12a257385/]_
+- **Kaggle Profile:** _[https://www.kaggle.com/merylak]_
 
 ---
 
