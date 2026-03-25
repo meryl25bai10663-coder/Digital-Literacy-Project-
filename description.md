@@ -19,4 +19,4 @@ This infographic was created using Canva's free plan. It is a single-page visual
 ## Reflection
 The most challenging part was deciding what to leave out — digital literacy covers a vast range of topics. I learned that good infographic design is as much about editing as it is about adding content. Visual hierarchy (which element the eye reads first) was something I had to consciously think about for the first time.
 
-![Digital Literacy Infographic](infographics.png.png)
+![Digital Literacy Infographic](infographic.png)
