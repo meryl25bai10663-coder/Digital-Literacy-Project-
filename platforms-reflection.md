@@ -34,8 +34,9 @@ HackerRank was more approachable than I expected. The interface is clean and it 
 
 ---
 
+## Hacker Rank Result 
 <img width="582" height="613" alt="HackerRank" src="https://github.com/user-attachments/assets/704c69dd-354d-4481-b68d-4cff0e69fa91" />
 
-
+## Digital Literacy Awareness Google Form Quiz 
 <img width="848" height="784" alt="Digital Literacy Awareness Quiz" src="https://github.com/user-attachments/assets/9144050b-b8a0-4b68-bbd9-6c5b051d94be" />
 
