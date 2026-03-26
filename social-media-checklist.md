@@ -6,7 +6,7 @@
 
 2. **Keep professional platforms (LinkedIn, GitHub) separate** from personal ones. Maintain a clean, professional image on platforms that recruiters and faculty may visit.
 
-3. **Think before you post.** Apply the "newspaper test" — would you be comfortable if this post appeared on the front page of a newspaper with your name attached?
+3. **Think before you post.** Apply the "newspaper test" would you be comfortable if this post appeared on the front page of a newspaper with your name attached?
 
 4. **Credit others' work** when you share or repost content. Acknowledge sources, especially for academic or creative material.
 
@@ -22,7 +22,7 @@
 
 1. **Don't post anything about your institution, faculty, or classmates** that you would not say directly to them. Screenshots spread quickly.
 
-2. **Don't share personal documents online** — Aadhaar, PAN card, college ID, marksheets, or any identity document.
+2. **Don't share personal documents online** Aadhaar, PAN card, college ID, marksheets, or any identity document.
 
 3. **Don't accept friend/follow requests from strangers** on personal accounts without verifying who they are.
 
