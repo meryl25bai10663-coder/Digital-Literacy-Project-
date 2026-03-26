@@ -4,11 +4,11 @@
 
 1. **Use strong, unique passwords** for every account. A strong password has at least 12 characters and includes letters, numbers, and symbols (e.g., VIT@2024#Secure!). Use a password manager if needed.
 
-2. **Enable two-factor authentication (2FA)** on all important accounts — email, social media, banking, and educational portals. Even if your password is stolen, 2FA blocks access.
+2. **Enable two-factor authentication (2FA)** on all important accounts email, social media, banking, and educational portals. Even if your password is stolen, 2FA blocks access.
 
 3. **Never click on links in unsolicited emails or SMS messages** claiming to be from banks, TRAI, or government agencies. Always go directly to the official website.
 
-4. **Verify before you trust.** If you receive a call, message, or email asking for personal details, OTPs, or money — hang up or ignore, and verify through official channels independently.
+4. **Verify before you trust.** If you receive a call, message, or email asking for personal details, OTPs, or money hang up or ignore, and verify through official channels independently.
 
 5. **Keep your software and apps updated.** Security patches in updates fix vulnerabilities that cybercriminals exploit.
 
@@ -18,7 +18,7 @@
 
 ## Financial and UPI Safety (Mandatory Tips)
 
-7. **Understand the difference between UPI Collect Requests and Payment Links.** A "collect request" means you are being asked to SEND money — you should never enter your UPI PIN to "receive" a payment. Entering your PIN always sends money from your account.
+7. **Understand the difference between UPI Collect Requests and Payment Links.** A "collect request" means you are being asked to SEND money you should never enter your UPI PIN to "receive" a payment. Entering your PIN always sends money from your account.
 
 8. **Never share your UPI PIN, OTP, or CVV with anyone — including people claiming to be bank officials or payment platform support agents.** Legitimate banks and apps will never ask for these.
 
