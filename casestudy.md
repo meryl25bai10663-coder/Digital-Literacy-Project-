@@ -17,7 +17,7 @@ Riya, a 19-year-old first-year engineering student in Indore, posted in a colleg
 
 2. **Building trust:** He shared a fake screenshot of a ₹18,000 "payment sent" confirmation to make Riya believe money was already on the way.
 
-3. **The trick:** Ajay then sent Riya a UPI "collect request" for ₹18,000 — which is a request for her to send money to him — and told her, "You just need to approve this to receive your payment."
+3. **The trick:** Ajay then sent Riya a UPI "collect request" for ₹18,000 which is a request for her to send money to him — and told her, "You just need to approve this to receive your payment."
 
 4. **The deception:** Riya, confused by the process, entered her UPI PIN to "confirm receipt." She had unknowingly approved a payment to him.
 
@@ -25,7 +25,7 @@ Riya, a 19-year-old first-year engineering student in Indore, posted in a colleg
 
 ### Who Is Targeted
 
-Young adults, students, and first-time digital payment users — anyone unfamiliar with the difference between a UPI payment link (to receive money) and a UPI collect request (to send money).
+Young adults, students, and first-time digital payment users anyone unfamiliar with the difference between a UPI payment link (to receive money) and a UPI collect request (to send money).
 
 ### Consequences
 
