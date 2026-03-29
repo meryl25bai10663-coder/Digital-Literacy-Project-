@@ -23,8 +23,11 @@ Thank you for your understanding and consideration.
 Yours sincerely,
 
 Meryl Adrina Kerobin
+
 Registration No.: 25BAI10663
-First Year Student
+
+First Year Student(AI & ML)
+
 VIT Bhopal University
 
 
@@ -53,7 +56,10 @@ Thank you for your time and consideration.
 Yours sincerely,
 
 Meryl Adrina Kerobin
+
 Registration No.: 25BAI10663
-First Year B.Tech Student
+
+First Year B.Tech Student(AI & ML)
+
 VIT Bhopal University
 
